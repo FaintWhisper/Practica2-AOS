@@ -12,6 +12,7 @@ Dentro de la carpeta de 'Implementacion':
 - Código -> El código fuente de la implementacion de nuestro servicio.
 - Docker - API SERVER -> Despliegue con Docker, tiene los mismos scripts que la carpeta Docker.
 - Kubernetes - API SERVER -> Despliegue con Kubernetes, tiene los mismos scripts que la carpeta Kubernetes.
+
 La justificacion, explicacion y realizacion de la practica 2 de AOS se incluye en la memoria adjunta.
 
 Link de mega.nz: https://mega.nz/file/Fo5lURBa#EhcrPp_lTdUNoa4AeTwLnmvUukPlcCQ0KrVtif-ZYIQ
